@@ -1,0 +1,7 @@
+what is the difference between batch_first = True or False
+LoRA from scratch
+the logic of notebook 2
+the logic of notebook 4
+Handle comments of notebook4(COMPLETED)
+questions of notebook 1(COMPLETEDED)
+what is arima model(end of notebook1)(COMPLETEDED)
