@@ -1,6 +1,6 @@
 
-![](https://img.shields.io/github/license/PouyaKhn/DL_HWs)
-![](https://img.shields.io/github/repo-size/PouyaKhn/DL_HWs)
+![](https://img.shields.io/github/license/RezaGhi/DL_HWs_SP25)
+![](https://img.shields.io/github/repo-size/RezaGhi/DL_HWs_SP25)
 
 # Deep Learning
 This repository contains my codes and Solutions for HomeWorks of Deep Learning course held at [Sharif University of Technology (SUT)](https://en.sharif.edu/) by [Prof. Mahdieh Soleymani Baghshah](https://scholar.google.com/citations?user=S1U0KlgAAAAJ&hl=en) in Spring 2025.
