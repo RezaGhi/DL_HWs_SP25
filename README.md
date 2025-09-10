@@ -2,38 +2,29 @@
 ![](https://img.shields.io/github/license/PouyaKhn/DL_HWs)
 ![](https://img.shields.io/github/repo-size/PouyaKhn/DL_HWs)
 
-# Deep Learning Course Codes and Solutions
-This repository contains my codes and Solutions for HomeWorks of Deep Learning course held at [Sharif University of Technology (SUT)](https://en.sharif.edu/) by [Prof. Hamid Beigy](https://scholar.google.com/citations?user=0NiKG0EAAAAJ&hl=en) in Spring 2022.
- 
+# Deep Learning
+This repository contains my codes and Solutions for HomeWorks of Deep Learning course held at [Sharif University of Technology (SUT)](https://en.sharif.edu/) by [Prof. Mahdieh Soleymani Baghshah](https://scholar.google.com/citations?user=S1U0KlgAAAAJ&hl=en) in Spring 2025.
+
 ## HomeWorks
 
 ### HW1
 
-Theoretical: [[Question]](HW1/HW1_Questions.pdf) [[Solutions]](HW1/Theoretical/HW1_99210283.pdf) 
+Theoretical: [[Question]](DL_HW1/Questions/Theory.pdf) [[Solutions]](DL_HW1/Answers/Theory/HW1_Reza_Ghorbani_403206565.pdf) 
 
-Practical1(Basic of Pytorch): [[Questions]](DL_HW1/Questions/Practicals/1-Basics.ipynb) [[Solution]](DL_HW1/Answers/1_Basic)
-
+Practical 1(Basic of Pytorch): [[Questions]](DL_HW1/Questions/Practicals/1-Basics.ipynb) [[Solution]](DL_HW1/Answers/1_Basic)
+Practical 2(Neural Network from scratch): [[Questions]](DL_HW1/Questions/Practicals/2-NN_Scratch.ipynb) [[Solution]](DL_HW1/Answers/2_NN_Scratch/2_NN_Scratch.ipynb)
+Practical 3(Optimization): [[Questions]](DL_HW1/Questions/Practicals/3-Optimization.ipynb) [[Solution]](DL_HW1/Answers/3_Optimization/3_Optimization.ipynb)
+Practical 4(Lazy Gradient): [[Questions]](DL_HW1/Questions/Practicals/4-Lazy_Gradient.ipynb) [[Solution]](DL_HW1/Answers/4_Lazy_Gradient/4_Lazy_Gradient.ipynb)
 
 ### HW2
 
-Theoretical: [[Question]](HW2/HW2_Questions.pdf) [[Solutions]](HW1/Theoretical/HW2_99210283.pdf) 
-
-Practical: [[Questions]](HW2/HW2_Questions.pdf) [[Solution for Q5]](HW2/Practical/Q5.ipynb) [[Solution for Q6]](HW2/Practical/Q6.ipynb)
 
 ### HW3
 
-Theoretical: [[Questions]](HW3/HW3_Questions.pdf) [[Solutions]](HW3/Theoretical/HW3_99210283.pdf)
-
-Practical: [[Questions]](HW3/HW3_Questions.pdf) [[Solution for Q4]](HW3/Practical/Q4.ipynb) [[Solution for Q6]](HW3/Practical/Q6.ipynb)
 
 ### HW4
 
-Theoretical: [[Questions]](HW4/HW4_Questions.pdf) [[Solutions]](HW4/Theoretical/HW4_99210283.pdf)
-
-Practical: [[Solution for GAN notebook]](HW4/Practical/GAN_99210283.ipynb) [[Solution for VAE notebook]](HW4/Practical/VAE_99210283.ipynb)
 
 ### HW5
 
-Theoretical: [[Questions]](HW5/HW5_Questions.pdf) [[Solutions]](HW5/Theoretical/HW5_99210283.pdf)
 
-Practical: [[Questions]](HW5/HW5_Questions.pdf) [[Solution for Q4]](HW5/Practical/Q4_99210283.ipynb) [[Solution for Q6 (Custom Environment for RL)]](HW5/Practical/Q6_Custom_environment_99210283.ipynb) [[Solution for Q6 (Policy Gradient for RL)]](HW5/Practical/Q6_Policy_Gradient_99210283.ipynb)
