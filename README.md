@@ -46,8 +46,22 @@ Practical 4(Reasoning): [[Questions]](DL_HW3/Questions/Q4_Reasoning.ipynb) [[Sol
 ---
 
 ### HW4
+Theoretical: [[Question]](DL_HW4/Questions/Theory/DL_HW4_Theory.pdf) [[Solutions]](DL_HW4/Answers/Theory/HW4_Reza_Ghorbani_403206565.pdf) 
 
+Practical 1(VAE from scratch): [[Questions]](DL_HW4/Questions/Practical/VAE.ipynb) [[Solution]](DL_HW4/Answers/VAE/VAE.ipynb)
+
+Practical 2(DDPM from scratch): [[Questions]](DL_HW4/Questions/Practical/DDPM.ipynb) [[Solution]](DL_HW4/Answers/DDPM/DDPM.ipynb)
+
+---
 
 ### HW5
+Theoretical: [[Question]](DL_HW5/Questions/Theory/DL_HW5_2025.pdf) [[Solutions]](DL_HW5/Answers/Theory/HW5_Reza_Ghorbani_403206565.pdf) 
 
+Practical 1(ِGrounding DINO): [[Questions]](DL_HW5/Questions/Practical/DINO.ipynb) [[Solution]](DL_HW5/Answers/Practical/DINO/DINO.ipynb)
+
+Practical 2(Stable Diffusion): [[Questions]](DL_HW5/Questions/Practical/StableDiffusion.ipynb) [[Solution]](DL_HW5/Answers/Practical/StableDiffusion/StableDiffusion.ipynb)
+
+Practical 3(Image Generation with CLIP): [[Questions]](DL_HW3/Questions/Q3_PEFT.ipynb) [[Solution]](DL_HW3/Answers/P3/Q3_PEFT.ipynb)
+
+Practical 4(Reasoning): [[Questions]](DL_HW5/Questions/Practical/image-generation-with-clip.ipynb) [[Solution]](DL_HW5/Answers/Practical/image-generation-with-clip/image_generation_with_clip.ipynb)
 
