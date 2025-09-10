@@ -20,7 +20,13 @@ Practical 3(Optimization): [[Questions]](DL_HW1/Questions/Practicals/3-Optimizat
 Practical 4(Lazy Gradient): [[Questions]](DL_HW1/Questions/Practicals/4-Lazy_Gradient.ipynb) [[Solution]](DL_HW1/Answers/4_Lazy_Gradient/4_Lazy_Gradient.ipynb)
 
 ### HW2
+Theoretical: [[Question]](DL_HW2/Questions/DL_HW2.pdf) [[Solutions]](DL_HW1/Answers/Theory/HW1_Reza_Ghorbani_403206565.pdf) 
 
+Practical 1(Classification): [[Questions]](DL_HW2/Questions/Q1_Classification.ipynb) [[Solution]](DL_HW2/Answers/P1/Q1_Classification.ipynb)
+
+Practical 2(Segmentation): [[Questions]](DL_HW2/Questions/Q2_Segmentation.ipynb) [[Solution]](DL_HW2/Answers/P2/Q2_Segmentation.ipynb)
+
+Practical 3(Object Detection): [[Questions]](DL_HW2/Questions/Q3_Object_Detection.ipynb) [[Solution]](DL_HW2/Answers/T/HW2_Reza_Ghorbani_403206565.pdf)
 
 ### HW3
 
