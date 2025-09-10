@@ -62,6 +62,3 @@ Practical 1(ِGrounding DINO): [[Questions]](DL_HW5/Questions/Practical/DINO.ipy
 Practical 2(Stable Diffusion): [[Questions]](DL_HW5/Questions/Practical/StableDiffusion.ipynb) [[Solution]](DL_HW5/Answers/Practical/StableDiffusion/StableDiffusion.ipynb)
 
 Practical 3(Image Generation with CLIP): [[Questions]](DL_HW3/Questions/Q3_PEFT.ipynb) [[Solution]](DL_HW3/Answers/P3/Q3_PEFT.ipynb)
-
-Practical 4(Reasoning): [[Questions]](DL_HW5/Questions/Practical/image-generation-with-clip.ipynb) [[Solution]](DL_HW5/Answers/Practical/image-generation-with-clip/image_generation_with_clip.ipynb)
-
