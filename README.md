@@ -19,6 +19,8 @@ Practical 3(Optimization): [[Questions]](DL_HW1/Questions/Practicals/3-Optimizat
 
 Practical 4(Lazy Gradient): [[Questions]](DL_HW1/Questions/Practicals/4-Lazy_Gradient.ipynb) [[Solution]](DL_HW1/Answers/4_Lazy_Gradient/4_Lazy_Gradient.ipynb)
 
+---
+
 ### HW2
 Theoretical: [[Question]](DL_HW2/Questions/DL_HW2.pdf) [[Solutions]](DL_HW1/Answers/Theory/HW1_Reza_Ghorbani_403206565.pdf) 
 
@@ -28,8 +30,20 @@ Practical 2(Segmentation): [[Questions]](DL_HW2/Questions/Q2_Segmentation.ipynb)
 
 Practical 3(Object Detection): [[Questions]](DL_HW2/Questions/Q3_Object_Detection.ipynb) [[Solution]](DL_HW2/Answers/T/HW2_Reza_Ghorbani_403206565.pdf)
 
-### HW3
+---
 
+### HW3
+Theoretical: [[Question]](DL_HW3/Questions/DL_HW3.pdf) [[Solutions]](DL_HW3/Answers/Theory/HW3_Reza_Ghorbani_403206565.pdf) 
+
+Practical 1(RNN): [[Questions]](DL_HW3/Questions/Q1_RNN.ipynb) [[Solution]](DL_HW3/Answers/P1/Q1_RNN.ipynb)
+
+Practical 2(GPT2 from scratch): [[Questions]](DL_HW3/Questions/Q2_GPT2.ipynb) [[Solution]](DL_HW3/Answers/P2/Q2_GPT.ipynb)
+
+Practical 3(PEFT): [[Questions]](DL_HW3/Questions/Q3_PEFT.ipynb) [[Solution]](DL_HW3/Answers/P3/Q3_PEFT.ipynb)
+
+Practical 4(Reasoning): [[Questions]](DL_HW3/Questions/Q4_Reasoning.ipynb) [[Solution]](DL_HW3/Answers/P4/Q4_Reasoning.ipynb)
+
+---
 
 ### HW4
 
